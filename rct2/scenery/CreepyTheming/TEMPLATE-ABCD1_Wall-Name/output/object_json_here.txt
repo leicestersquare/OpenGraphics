@@ -1,0 +1,6 @@
+change	"rct2".--- to your name
+del	original ID
+del	source game
+del	images
+
+rename file to "object(.json)"

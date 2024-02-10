@@ -1,0 +1,66 @@
+name: CI
+on: [push, pull_request]
+jobs:
+  build-objexport:
+    name: Build objexport
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Setup .NET Core SDK
+        uses: actions/setup-dotnet@v1
+        with:
+          dotnet-version: '6.0.x'
+      - name: Restore
+        working-directory: tools/objexport
+        run: dotnet restore
+      - name: Build
+        working-directory: tools/objexport
+        run: dotnet build --configuration Release --no-restore
+      - name: Test
+        working-directory: tools/objexport
+        run: |
+          dotnet run --no-restore || ec=$?
+          if [ $ec = 1 ]; then
+              exit 0
+          else
+              exit 1
+          fi
+      - name: Publish (linux-x64)
+        working-directory: tools/objexport
+        run: dotnet publish -c Release -r linux-x64 -o ../../artifacts
+      - name: Publish (win-x64)
+        working-directory: tools/objexport
+        run: dotnet publish -c Release -r win-x64 -o ../../artifacts
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v3
+        with:
+          name: "objexport"
+          path: |
+            artifacts/objexport
+            artifacts/objexport.exe
+  build-objects:
+    name: Build objects
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+    - name: Download gxc
+      run: |
+        curl -Lo tools.tar.gz https://github.com/IntelOrca/libsawyer/releases/download/v1.3.0/libsawyer-tools-linux-x64.tar.gz
+        mkdir -p "$GITHUB_WORKSPACE/bin"
+        tar -C "$GITHUB_WORKSPACE/bin" -xf tools.tar.gz
+        echo "$GITHUB_WORKSPACE/bin" >> $GITHUB_PATH
+    - name: Create objects.zip
+      run: ./build.mjs
+    - name: Upload artifacts
+      uses: actions/upload-artifact@v2
+      with:
+        name: "OpenRCT2 Objects"
+        path: artifacts/objects.zip
+    - name: Create release
+      uses: softprops/action-gh-release@v1
+      if: startsWith(github.ref, 'refs/tags/v')
+      with:
+        fail_on_unmatched_files: true
+        files: artifacts/objects.zip

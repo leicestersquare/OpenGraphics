@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Settings>
+  <DefaultDirectory>C:\Program Files (x86)\Steam\steamapps\common\Rollercoaster Tycoon 2\ObjData</DefaultDirectory>
+  <ObjectsPerTick>50</ObjectsPerTick>
+  <QuickLoad>False</QuickLoad>
+  <RemapImage>False</RemapImage>
+  <AllowDeletion>False</AllowDeletion>
+  <BackupDeletion>True</BackupDeletion>
+</Settings>
