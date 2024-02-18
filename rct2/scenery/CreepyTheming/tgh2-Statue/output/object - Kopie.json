@@ -1,0 +1,185 @@
+{
+    "id": "JoshuaJacobs.scenery_small.tgh2",
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
+    "version": "1.0",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 38,
+        "removalPrice": -30,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 76,
+        "animationDelay": 1,
+        "animationMask": 511,
+        "numFrames": 16,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isAnimated": true,
+        "hasOverlayImage": true,
+        "SMALL_SCENERY_FLAG17": true,
+        "isStackable": true,
+        "frameOffsets": [
+            1,
+            2,
+            3,
+            4,
+            3,
+            2,
+            1,
+            0,
+            1,
+            2,
+            3,
+            4,
+            3,
+            2,
+            1,
+            0
+        ]
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Statue",
+            "es-ES": "Estatua",
+            "it-IT": "Statua",
+            "nl-NL": "Beeld",
+            "sv-SE": "Staty",
+            "ko-KR": "동상",
+            "zh-CN": "雕像",
+            "zh-TW": "雕像",
+            "pt-BR": "Estátua",
+            "cs-CZ": "Socha",
+            "ja-JP": "像",
+            "pl-PL": "Statua",
+            "ru-RU": "Статуя",
+            "fr-FR": "Statue",
+            "eo-ZZ": "Statuo",
+            "ca-ES": "Estàtua",
+            "fi-FI": "Patsas"
+        }
+    },
+    "images": [
+        {
+            "path": "sprites/sprite_0.png",
+            "x": -20,
+            "y": -79
+        },
+        {
+            "path": "sprites/sprite_1.png",
+            "x": -24,
+            "y": -73
+        },
+        {
+            "path": "sprites/sprite_2.png",
+            "x": -12,
+            "y": -75
+        },
+        {
+            "path": "sprites/sprite_3.png",
+            "x": -33,
+            "y": -70
+        },
+        {
+            "path": "sprites/sprite_4.png",
+            "x": -21,
+            "y": -80
+        },
+        {
+            "path": "sprites/sprite_5.png",
+            "x": -24,
+            "y": -75
+        },
+        {
+            "path": "sprites/sprite_6.png",
+            "x": -12,
+            "y": -76
+        },
+        {
+            "path": "sprites/sprite_7.png",
+            "x": -32,
+            "y": -70
+        },
+        {
+            "path": "sprites/sprite_8.png",
+            "x": -21,
+            "y": -85
+        },
+        {
+            "path": "sprites/sprite_9.png",
+            "x": -22,
+            "y": -79
+        },
+        {
+            "path": "sprites/sprite_10.png",
+            "x": -12,
+            "y": -80
+        },
+        {
+            "path": "sprites/sprite_11.png",
+            "x": -31,
+            "y": -70
+        },
+        {
+            "path": "sprites/sprite_12.png",
+            "x": -21,
+            "y": -88
+        },
+        {
+            "path": "sprites/sprite_13.png",
+            "x": -18,
+            "y": -84
+        },
+        {
+            "path": "sprites/sprite_14.png",
+            "x": -12,
+            "y": -84
+        },
+        {
+            "path": "sprites/sprite_15.png",
+            "x": -26,
+            "y": -73
+        },
+        {
+            "path": "sprites/sprite_16.png",
+            "x": -19,
+            "y": -90
+        },
+        {
+            "path": "sprites/sprite_17.png",
+            "x": -16,
+            "y": -85
+        },
+        {
+            "path": "sprites/sprite_18.png",
+            "x": -12,
+            "y": -87
+        },
+        {
+            "path": "sprites/sprite_19.png",
+            "x": -21,
+            "y": -79
+        },
+        {
+            "path": "sprites/sprite_20.png",
+            "x": -19,
+            "y": -90
+        },
+        {
+            "path": "sprites/sprite_21.png",
+            "x": -16,
+            "y": -85
+        },
+        {
+            "path": "sprites/sprite_22.png",
+            "x": -12,
+            "y": -87
+        },
+        {
+            "path": "sprites/sprite_23.png",
+            "x": -21,
+            "y": -79
+        }
+    ]
+}

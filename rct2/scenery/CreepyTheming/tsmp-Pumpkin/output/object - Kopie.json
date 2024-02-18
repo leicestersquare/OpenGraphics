@@ -1,0 +1,432 @@
+{
+    "id": "JoshuaJacobs.scenery_small.tsmp",
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
+    "version": "1.0",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 32,
+        "removalPrice": -28,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "height": 40,
+        "animationDelay": 1,
+        "animationMask": 511,
+        "numFrames": 63,
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "isRotatable": true,
+        "isAnimated": true,
+        "isStackable": true,
+        "frameOffsets": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            4,
+            3,
+            2,
+            1
+        ]
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Pumpkin",
+            "fr-FR": "Citrouille",
+            "de-DE": "Kürbis",
+            "es-ES": "Calabaza",
+            "it-IT": "Zucca",
+            "nl-NL": "Pompoen",
+            "sv-SE": "Pumpa",
+            "ko-KR": "호박",
+            "zh-CN": "南瓜",
+            "zh-TW": "南瓜",
+            "pt-BR": "Abóbora",
+            "cs-CZ": "Dýně",
+            "ja-JP": "カボチャ",
+            "pl-PL": "Dynia",
+            "ru-RU": "Тыква",
+            "eo-ZZ": "Kukurbo",
+            "ca-ES": "Carabassa",
+            "fi-FI": "Kurpitsa"
+        }
+    },
+    "images": [
+        {
+            "path": "sprites/sprite_0.png",
+            "x": -32,
+            "y": -29
+        },
+        {
+            "path": "sprites/sprite_1.png",
+            "x": -32,
+            "y": -25
+        },
+        {
+            "path": "sprites/sprite_2.png",
+            "x": -32,
+            "y": -25
+        },
+        {
+            "path": "sprites/sprite_3.png",
+            "x": -32,
+            "y": -28
+        },
+        {
+            "path": "sprites/sprite_4.png",
+            "x": -32,
+            "y": -29
+        },
+        {
+            "path": "sprites/sprite_5.png",
+            "x": -32,
+            "y": -25
+        },
+        {
+            "path": "sprites/sprite_6.png",
+            "x": -32,
+            "y": -25
+        },
+        {
+            "path": "sprites/sprite_7.png",
+            "x": -32,
+            "y": -28
+        },
+        {
+            "path": "sprites/sprite_8.png",
+            "x": -32,
+            "y": -29
+        },
+        {
+            "path": "sprites/sprite_9.png",
+            "x": -32,
+            "y": -25
+        },
+        {
+            "path": "sprites/sprite_10.png",
+            "x": -32,
+            "y": -25
+        },
+        {
+            "path": "sprites/sprite_11.png",
+            "x": -32,
+            "y": -28
+        },
+        {
+            "path": "sprites/sprite_12.png",
+            "x": -32,
+            "y": -29
+        },
+        {
+            "path": "sprites/sprite_13.png",
+            "x": -32,
+            "y": -25
+        },
+        {
+            "path": "sprites/sprite_14.png",
+            "x": -32,
+            "y": -25
+        },
+        {
+            "path": "sprites/sprite_15.png",
+            "x": -32,
+            "y": -28
+        },
+        {
+            "path": "sprites/sprite_16.png",
+            "x": -32,
+            "y": -29
+        },
+        {
+            "path": "sprites/sprite_17.png",
+            "x": -32,
+            "y": -25
+        },
+        {
+            "path": "sprites/sprite_18.png",
+            "x": -32,
+            "y": -25
+        },
+        {
+            "path": "sprites/sprite_19.png",
+            "x": -32,
+            "y": -28
+        },
+        {
+            "path": "sprites/sprite_20.png",
+            "x": -32,
+            "y": -29
+        },
+        {
+            "path": "sprites/sprite_21.png",
+            "x": -32,
+            "y": -25
+        },
+        {
+            "path": "sprites/sprite_22.png",
+            "x": -32,
+            "y": -25
+        },
+        {
+            "path": "sprites/sprite_23.png",
+            "x": -32,
+            "y": -28
+        },
+        {
+            "path": "sprites/sprite_24.png",
+            "x": -32,
+            "y": -29
+        },
+        {
+            "path": "sprites/sprite_25.png",
+            "x": -32,
+            "y": -25
+        },
+        {
+            "path": "sprites/sprite_26.png",
+            "x": -32,
+            "y": -25
+        },
+        {
+            "path": "sprites/sprite_27.png",
+            "x": -32,
+            "y": -28
+        },
+        {
+            "path": "sprites/sprite_28.png",
+            "x": -32,
+            "y": -29
+        },
+        {
+            "path": "sprites/sprite_29.png",
+            "x": -32,
+            "y": -25
+        },
+        {
+            "path": "sprites/sprite_30.png",
+            "x": -32,
+            "y": -25
+        },
+        {
+            "path": "sprites/sprite_31.png",
+            "x": -32,
+            "y": -28
+        },
+        {
+            "path": "sprites/sprite_32.png",
+            "x": -32,
+            "y": -29
+        },
+        {
+            "path": "sprites/sprite_33.png",
+            "x": -32,
+            "y": -25
+        },
+        {
+            "path": "sprites/sprite_34.png",
+            "x": -32,
+            "y": -25
+        },
+        {
+            "path": "sprites/sprite_35.png",
+            "x": -32,
+            "y": -28
+        },
+        {
+            "path": "sprites/sprite_36.png",
+            "x": -32,
+            "y": -29
+        },
+        {
+            "path": "sprites/sprite_37.png",
+            "x": -32,
+            "y": -25
+        },
+        {
+            "path": "sprites/sprite_38.png",
+            "x": -32,
+            "y": -25
+        },
+        {
+            "path": "sprites/sprite_39.png",
+            "x": -32,
+            "y": -28
+        },
+        {
+            "path": "sprites/sprite_40.png",
+            "x": -32,
+            "y": -29
+        },
+        {
+            "path": "sprites/sprite_41.png",
+            "x": -32,
+            "y": -25
+        },
+        {
+            "path": "sprites/sprite_42.png",
+            "x": -32,
+            "y": -25
+        },
+        {
+            "path": "sprites/sprite_43.png",
+            "x": -32,
+            "y": -28
+        },
+        {
+            "path": "sprites/sprite_44.png",
+            "x": -32,
+            "y": -29
+        },
+        {
+            "path": "sprites/sprite_45.png",
+            "x": -32,
+            "y": -25
+        },
+        {
+            "path": "sprites/sprite_46.png",
+            "x": -32,
+            "y": -25
+        },
+        {
+            "path": "sprites/sprite_47.png",
+            "x": -32,
+            "y": -28
+        },
+        {
+            "path": "sprites/sprite_48.png",
+            "x": -32,
+            "y": -29
+        },
+        {
+            "path": "sprites/sprite_49.png",
+            "x": -32,
+            "y": -25
+        },
+        {
+            "path": "sprites/sprite_50.png",
+            "x": -32,
+            "y": -25
+        },
+        {
+            "path": "sprites/sprite_51.png",
+            "x": -32,
+            "y": -28
+        },
+        {
+            "path": "sprites/sprite_52.png",
+            "x": -32,
+            "y": -29
+        },
+        {
+            "path": "sprites/sprite_53.png",
+            "x": -32,
+            "y": -25
+        },
+        {
+            "path": "sprites/sprite_54.png",
+            "x": -32,
+            "y": -25
+        },
+        {
+            "path": "sprites/sprite_55.png",
+            "x": -32,
+            "y": -28
+        },
+        {
+            "path": "sprites/sprite_56.png",
+            "x": -32,
+            "y": -29
+        },
+        {
+            "path": "sprites/sprite_57.png",
+            "x": -32,
+            "y": -25
+        },
+        {
+            "path": "sprites/sprite_58.png",
+            "x": -32,
+            "y": -25
+        },
+        {
+            "path": "sprites/sprite_59.png",
+            "x": -32,
+            "y": -28
+        },
+        {
+            "path": "sprites/sprite_60.png",
+            "x": -32,
+            "y": -29
+        },
+        {
+            "path": "sprites/sprite_61.png",
+            "x": -32,
+            "y": -25
+        },
+        {
+            "path": "sprites/sprite_62.png",
+            "x": -32,
+            "y": -25
+        },
+        {
+            "path": "sprites/sprite_63.png",
+            "x": -32,
+            "y": -28
+        }
+    ]
+}
