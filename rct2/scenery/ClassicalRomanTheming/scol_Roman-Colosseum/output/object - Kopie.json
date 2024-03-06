@@ -1,0 +1,317 @@
+{
+    "id": "JoshuaJacobs.scenery_large.scol",
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
+    "version": "1.0",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 200,
+        "removalPrice": -170,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 72,
+                "hasSupports": true,
+                "walls": 9,
+                "corners": 1
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 72,
+                "hasSupports": true,
+                "walls": 5,
+                "corners": 11
+            },
+            {
+                "x": 0,
+                "y": 64,
+                "clearance": 72,
+                "hasSupports": true,
+                "walls": 5,
+                "corners": 7
+            },
+            {
+                "x": 0,
+                "y": 96,
+                "clearance": 72,
+                "hasSupports": true,
+                "walls": 3,
+                "corners": 2
+            },
+            {
+                "x": 32,
+                "y": 96,
+                "clearance": 72,
+                "hasSupports": true,
+                "walls": 10,
+                "corners": 7
+            },
+            {
+                "x": 64,
+                "y": 96,
+                "clearance": 72,
+                "hasSupports": true,
+                "walls": 10,
+                "corners": 14
+            },
+            {
+                "x": 96,
+                "y": 96,
+                "clearance": 72,
+                "hasSupports": true,
+                "walls": 6,
+                "corners": 4
+            },
+            {
+                "x": 96,
+                "y": 64,
+                "clearance": 72,
+                "hasSupports": true,
+                "walls": 5,
+                "corners": 14
+            },
+            {
+                "x": 96,
+                "y": 32,
+                "clearance": 72,
+                "hasSupports": true,
+                "walls": 5,
+                "corners": 13
+            },
+            {
+                "x": 96,
+                "y": 0,
+                "clearance": 72,
+                "hasSupports": true,
+                "walls": 12,
+                "corners": 8
+            },
+            {
+                "x": 64,
+                "y": 0,
+                "clearance": 72,
+                "hasSupports": true,
+                "walls": 10,
+                "corners": 13
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 72,
+                "hasSupports": true,
+                "walls": 10,
+                "corners": 11
+            }
+        ]
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Roman Colosseum",
+            "fr-FR": "Colosse romain",
+            "de-DE": "Römisches Kolosseum",
+            "es-ES": "Coliseo romano",
+            "it-IT": "Colosseo romano",
+            "nl-NL": "Colosseum",
+            "sv-SE": "Romersk amfiteater",
+            "ko-KR": "로마 콜로세움",
+            "zh-CN": "古罗马圆形大竞技场",
+            "zh-TW": "古羅馬圓形大競技場",
+            "pt-BR": "Coliseu Romano",
+            "cs-CZ": "Římské koloseum",
+            "ja-JP": "ローマのコロシアム",
+            "pl-PL": "Koloseum",
+            "ru-RU": "Колизей",
+            "eo-ZZ": "Roma Koloseo",
+            "ca-ES": "Coliseu romà",
+            "fi-FI": "Rooman Colosseum"
+        }
+    },
+    "images": [
+        {
+            "path": "sprites/sprite_0.png",
+            "x": -50,
+            "y": -137
+        },
+        {
+            "path": "sprites/sprite_1.png",
+            "x": -14,
+            "y": -30
+        },
+        {
+            "path": "sprites/sprite_2.png",
+            "x": 16,
+            "y": -22
+        },
+        {
+            "path": "sprites/sprite_3.png",
+            "x": 46,
+            "y": -89
+        },
+        {
+            "path": "sprites/sprite_4.png",
+            "x": -1,
+            "y": 10
+        },
+        {
+            "path": "sprites/sprite_5.png",
+            "x": -50,
+            "y": -107
+        },
+        {
+            "path": "sprites/sprite_6.png",
+            "x": -32,
+            "y": 0
+        },
+        {
+            "path": "sprites/sprite_7.png",
+            "x": -14,
+            "y": 0
+        },
+        {
+            "path": "sprites/sprite_8.png",
+            "x": -32,
+            "y": 8
+        },
+        {
+            "path": "sprites/sprite_9.png",
+            "x": 16,
+            "y": 8
+        },
+        {
+            "path": "sprites/sprite_10.png",
+            "x": -146,
+            "y": -59
+        },
+        {
+            "path": "sprites/sprite_11.png",
+            "x": 46,
+            "y": -59
+        },
+        {
+            "path": "sprites/sprite_12.png",
+            "x": -16,
+            "y": 0
+        },
+        {
+            "path": "sprites/sprite_13.png",
+            "x": -14,
+            "y": 0
+        },
+        {
+            "path": "sprites/sprite_14.png",
+            "x": -32,
+            "y": -11
+        },
+        {
+            "path": "sprites/sprite_15.png",
+            "x": -32,
+            "y": -27
+        },
+        {
+            "path": "sprites/sprite_16.png",
+            "x": -32,
+            "y": 0
+        },
+        {
+            "path": "sprites/sprite_17.png",
+            "x": -16,
+            "y": 0
+        },
+        {
+            "path": "sprites/sprite_18.png",
+            "x": -32,
+            "y": 8
+        },
+        {
+            "path": "sprites/sprite_19.png",
+            "x": 16,
+            "y": 8
+        },
+        {
+            "path": "sprites/sprite_20.png",
+            "x": 16,
+            "y": 8
+        },
+        {
+            "path": "sprites/sprite_21.png",
+            "x": -32,
+            "y": 8
+        },
+        {
+            "path": "sprites/sprite_22.png",
+            "x": -16,
+            "y": 0
+        },
+        {
+            "path": "sprites/sprite_23.png",
+            "x": -32,
+            "y": 0
+        },
+        {
+            "path": "sprites/sprite_24.png",
+            "x": -32,
+            "y": 0
+        },
+        {
+            "path": "sprites/sprite_25.png",
+            "x": -32,
+            "y": 0
+        },
+        {
+            "path": "sprites/sprite_26.png",
+            "x": -14,
+            "y": 0
+        },
+        {
+            "path": "sprites/sprite_27.png",
+            "x": -16,
+            "y": 0
+        },
+        {
+            "path": "sprites/sprite_28.png",
+            "x": 46,
+            "y": -59
+        },
+        {
+            "path": "sprites/sprite_29.png",
+            "x": -146,
+            "y": -59
+        },
+        {
+            "path": "sprites/sprite_30.png",
+            "x": 16,
+            "y": 8
+        },
+        {
+            "path": "sprites/sprite_31.png",
+            "x": -32,
+            "y": 8
+        },
+        {
+            "path": "sprites/sprite_32.png",
+            "x": -14,
+            "y": 0
+        },
+        {
+            "path": "sprites/sprite_33.png",
+            "x": -32,
+            "y": 0
+        },
+        {
+            "path": "sprites/sprite_34.png",
+            "x": -50,
+            "y": -107
+        },
+        {
+            "path": "sprites/sprite_35.png",
+            "x": -23,
+            "y": 9
+        }
+    ]
+}
