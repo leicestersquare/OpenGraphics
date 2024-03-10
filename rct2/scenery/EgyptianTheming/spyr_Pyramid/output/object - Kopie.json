@@ -1,0 +1,1013 @@
+{
+    "id": "JoshuaJacobs.scenery_large.spyr",
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
+    "version": "1.0",
+    "objectType": "scenery_large",
+    "properties": {
+        "price": 350,
+        "removalPrice": -300,
+        "cursor": "CURSOR_STATUE_DOWN",
+        "isPhotogenic": true,
+        "tiles": [
+            {
+                "x": 0,
+                "y": 0,
+                "clearance": 96,
+                "hasSupports": true
+            },
+            {
+                "x": 0,
+                "y": 32,
+                "clearance": 96,
+                "hasSupports": true
+            },
+            {
+                "x": 0,
+                "y": 64,
+                "clearance": 96,
+                "hasSupports": true
+            },
+            {
+                "x": 0,
+                "y": 96,
+                "clearance": 96,
+                "hasSupports": true
+            },
+            {
+                "x": 0,
+                "y": 128,
+                "clearance": 96,
+                "hasSupports": true
+            },
+            {
+                "x": 0,
+                "y": 160,
+                "clearance": 96,
+                "hasSupports": true
+            },
+            {
+                "x": 32,
+                "y": 160,
+                "clearance": 96,
+                "hasSupports": true
+            },
+            {
+                "x": 64,
+                "y": 160,
+                "clearance": 96,
+                "hasSupports": true
+            },
+            {
+                "x": 96,
+                "y": 160,
+                "clearance": 96,
+                "hasSupports": true
+            },
+            {
+                "x": 128,
+                "y": 160,
+                "clearance": 96,
+                "hasSupports": true
+            },
+            {
+                "x": 160,
+                "y": 160,
+                "clearance": 96,
+                "hasSupports": true
+            },
+            {
+                "x": 160,
+                "y": 128,
+                "clearance": 96,
+                "hasSupports": true
+            },
+            {
+                "x": 160,
+                "y": 96,
+                "clearance": 96,
+                "hasSupports": true
+            },
+            {
+                "x": 160,
+                "y": 64,
+                "clearance": 96,
+                "hasSupports": true
+            },
+            {
+                "x": 160,
+                "y": 32,
+                "clearance": 96,
+                "hasSupports": true
+            },
+            {
+                "x": 160,
+                "y": 0,
+                "clearance": 96,
+                "hasSupports": true
+            },
+            {
+                "x": 128,
+                "y": 0,
+                "clearance": 96,
+                "hasSupports": true
+            },
+            {
+                "x": 96,
+                "y": 0,
+                "clearance": 96,
+                "hasSupports": true
+            },
+            {
+                "x": 64,
+                "y": 0,
+                "clearance": 96,
+                "hasSupports": true
+            },
+            {
+                "x": 32,
+                "y": 0,
+                "clearance": 96,
+                "hasSupports": true
+            },
+            {
+                "x": 32,
+                "y": 32,
+                "z": 64,
+                "clearance": 112,
+                "hasSupports": true
+            },
+            {
+                "x": 32,
+                "y": 64,
+                "z": 64,
+                "clearance": 112,
+                "hasSupports": true
+            },
+            {
+                "x": 32,
+                "y": 96,
+                "z": 64,
+                "clearance": 112,
+                "hasSupports": true
+            },
+            {
+                "x": 32,
+                "y": 128,
+                "z": 64,
+                "clearance": 112,
+                "hasSupports": true
+            },
+            {
+                "x": 64,
+                "y": 128,
+                "z": 64,
+                "clearance": 112,
+                "hasSupports": true
+            },
+            {
+                "x": 96,
+                "y": 128,
+                "z": 64,
+                "clearance": 112,
+                "hasSupports": true
+            },
+            {
+                "x": 128,
+                "y": 128,
+                "z": 64,
+                "clearance": 112,
+                "hasSupports": true
+            },
+            {
+                "x": 128,
+                "y": 96,
+                "z": 64,
+                "clearance": 112,
+                "hasSupports": true
+            },
+            {
+                "x": 128,
+                "y": 64,
+                "z": 64,
+                "clearance": 112,
+                "hasSupports": true
+            },
+            {
+                "x": 128,
+                "y": 32,
+                "z": 64,
+                "clearance": 112,
+                "hasSupports": true
+            },
+            {
+                "x": 96,
+                "y": 32,
+                "z": 64,
+                "clearance": 112,
+                "hasSupports": true
+            },
+            {
+                "x": 64,
+                "y": 32,
+                "z": 64,
+                "clearance": 112,
+                "hasSupports": true
+            },
+            {
+                "x": 64,
+                "y": 64,
+                "z": 144,
+                "clearance": 80,
+                "hasSupports": true
+            },
+            {
+                "x": 64,
+                "y": 96,
+                "z": 144,
+                "clearance": 80,
+                "hasSupports": true
+            },
+            {
+                "x": 96,
+                "y": 96,
+                "z": 144,
+                "clearance": 80,
+                "hasSupports": true
+            },
+            {
+                "x": 96,
+                "y": 64,
+                "z": 144,
+                "clearance": 80,
+                "hasSupports": true
+            }
+        ]
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Pyramid",
+            "fr-FR": "Pyramide",
+            "de-DE": "Pyramide",
+            "es-ES": "Pirámide",
+            "it-IT": "Piramide",
+            "nl-NL": "Piramide",
+            "ko-KR": "피라미드",
+            "zh-CN": "金字塔",
+            "zh-TW": "金字塔",
+            "pt-BR": "Pirâmide",
+            "cs-CZ": "Pyramida",
+            "ja-JP": "ピラミッド",
+            "pl-PL": "Piramida",
+            "ru-RU": "Башня",
+            "eo-ZZ": "Piramido",
+            "ca-ES": "Piràmide",
+            "fi-FI": "Pyramidi",
+            "ar-EG": "هرم"
+        }
+    },
+    "images": [
+        {
+            "path": "sprites/sprite_0.png",
+            "x": -32,
+            "y": -12
+        },
+        {
+            "path": "sprites/sprite_1.png",
+            "x": -32,
+            "y": -12
+        },
+        {
+            "path": "sprites/sprite_2.png",
+            "x": -32,
+            "y": -12
+        },
+        {
+            "path": "sprites/sprite_3.png",
+            "x": -32,
+            "y": -12
+        },
+        {
+            "path": "sprites/sprite_4.png",
+            "x": -194,
+            "y": -195
+        },
+        {
+            "path": "sprites/sprite_5.png",
+            "x": -354,
+            "y": -275
+        },
+        {
+            "path": "sprites/sprite_6.png",
+            "x": -194,
+            "y": -355
+        },
+        {
+            "path": "sprites/sprite_7.png",
+            "x": -34,
+            "y": -275
+        },
+        {
+            "path": "sprites/sprite_8.png",
+            "x": -226,
+            "y": -211
+        },
+        {
+            "path": "sprites/sprite_9.png",
+            "x": -322,
+            "y": -291
+        },
+        {
+            "path": "sprites/sprite_10.png",
+            "x": -162,
+            "y": -339
+        },
+        {
+            "path": "sprites/sprite_11.png",
+            "x": -66,
+            "y": -259
+        },
+        {
+            "path": "sprites/sprite_12.png",
+            "x": -258,
+            "y": -227
+        },
+        {
+            "path": "sprites/sprite_13.png",
+            "x": -290,
+            "y": -307
+        },
+        {
+            "path": "sprites/sprite_14.png",
+            "x": -130,
+            "y": -323
+        },
+        {
+            "path": "sprites/sprite_15.png",
+            "x": -98,
+            "y": -243
+        },
+        {
+            "path": "sprites/sprite_16.png",
+            "x": -290,
+            "y": -243
+        },
+        {
+            "path": "sprites/sprite_17.png",
+            "x": -258,
+            "y": -323
+        },
+        {
+            "path": "sprites/sprite_18.png",
+            "x": -98,
+            "y": -307
+        },
+        {
+            "path": "sprites/sprite_19.png",
+            "x": -130,
+            "y": -227
+        },
+        {
+            "path": "sprites/sprite_20.png",
+            "x": -322,
+            "y": -259
+        },
+        {
+            "path": "sprites/sprite_21.png",
+            "x": -226,
+            "y": -339
+        },
+        {
+            "path": "sprites/sprite_22.png",
+            "x": -66,
+            "y": -291
+        },
+        {
+            "path": "sprites/sprite_23.png",
+            "x": -162,
+            "y": -211
+        },
+        {
+            "path": "sprites/sprite_24.png",
+            "x": -354,
+            "y": -275
+        },
+        {
+            "path": "sprites/sprite_25.png",
+            "x": -194,
+            "y": -355
+        },
+        {
+            "path": "sprites/sprite_26.png",
+            "x": -34,
+            "y": -275
+        },
+        {
+            "path": "sprites/sprite_27.png",
+            "x": -194,
+            "y": -195
+        },
+        {
+            "path": "sprites/sprite_28.png",
+            "x": -162,
+            "y": -211
+        },
+        {
+            "path": "sprites/sprite_29.png",
+            "x": -322,
+            "y": -259
+        },
+        {
+            "path": "sprites/sprite_30.png",
+            "x": -226,
+            "y": -339
+        },
+        {
+            "path": "sprites/sprite_31.png",
+            "x": -66,
+            "y": -291
+        },
+        {
+            "path": "sprites/sprite_32.png",
+            "x": -194,
+            "y": -227
+        },
+        {
+            "path": "sprites/sprite_33.png",
+            "x": -290,
+            "y": -275
+        },
+        {
+            "path": "sprites/sprite_34.png",
+            "x": -194,
+            "y": -323
+        },
+        {
+            "path": "sprites/sprite_35.png",
+            "x": -98,
+            "y": -275
+        },
+        {
+            "path": "sprites/sprite_36.png",
+            "x": -226,
+            "y": -243
+        },
+        {
+            "path": "sprites/sprite_37.png",
+            "x": -258,
+            "y": -291
+        },
+        {
+            "path": "sprites/sprite_38.png",
+            "x": -162,
+            "y": -307
+        },
+        {
+            "path": "sprites/sprite_39.png",
+            "x": -130,
+            "y": -259
+        },
+        {
+            "path": "sprites/sprite_40.png",
+            "x": -258,
+            "y": -259
+        },
+        {
+            "path": "sprites/sprite_41.png",
+            "x": -226,
+            "y": -307
+        },
+        {
+            "path": "sprites/sprite_42.png",
+            "x": -130,
+            "y": -291
+        },
+        {
+            "path": "sprites/sprite_43.png",
+            "x": -162,
+            "y": -243
+        },
+        {
+            "path": "sprites/sprite_44.png",
+            "x": -290,
+            "y": -275
+        },
+        {
+            "path": "sprites/sprite_45.png",
+            "x": -194,
+            "y": -323
+        },
+        {
+            "path": "sprites/sprite_46.png",
+            "x": -98,
+            "y": -275
+        },
+        {
+            "path": "sprites/sprite_47.png",
+            "x": -194,
+            "y": -227
+        },
+        {
+            "path": "sprites/sprite_48.png",
+            "x": -322,
+            "y": -291
+        },
+        {
+            "path": "sprites/sprite_49.png",
+            "x": -162,
+            "y": -339
+        },
+        {
+            "path": "sprites/sprite_50.png",
+            "x": -66,
+            "y": -259
+        },
+        {
+            "path": "sprites/sprite_51.png",
+            "x": -226,
+            "y": -211
+        },
+        {
+            "path": "sprites/sprite_52.png",
+            "x": -130,
+            "y": -227
+        },
+        {
+            "path": "sprites/sprite_53.png",
+            "x": -290,
+            "y": -243
+        },
+        {
+            "path": "sprites/sprite_54.png",
+            "x": -258,
+            "y": -323
+        },
+        {
+            "path": "sprites/sprite_55.png",
+            "x": -98,
+            "y": -307
+        },
+        {
+            "path": "sprites/sprite_56.png",
+            "x": -162,
+            "y": -243
+        },
+        {
+            "path": "sprites/sprite_57.png",
+            "x": -258,
+            "y": -259
+        },
+        {
+            "path": "sprites/sprite_58.png",
+            "x": -226,
+            "y": -307
+        },
+        {
+            "path": "sprites/sprite_59.png",
+            "x": -130,
+            "y": -291
+        },
+        {
+            "path": "sprites/sprite_60.png",
+            "x": 7,
+            "y": 19
+        },
+        {
+            "path": "sprites/sprite_61.png",
+            "x": -16,
+            "y": 8
+        },
+        {
+            "path": "sprites/sprite_62.png",
+            "x": -16,
+            "y": 7
+        },
+        {
+            "path": "sprites/sprite_63.png",
+            "x": 0,
+            "y": 8
+        },
+        {
+            "path": "sprites/sprite_64.png",
+            "x": -16,
+            "y": 8
+        },
+        {
+            "path": "sprites/sprite_65.png",
+            "x": -16,
+            "y": 7
+        },
+        {
+            "path": "sprites/sprite_66.png",
+            "x": 0,
+            "y": 8
+        },
+        {
+            "path": "sprites/sprite_67.png",
+            "x": -16,
+            "y": 19
+        },
+        {
+            "path": "sprites/sprite_68.png",
+            "x": -258,
+            "y": -291
+        },
+        {
+            "path": "sprites/sprite_69.png",
+            "x": -162,
+            "y": -307
+        },
+        {
+            "path": "sprites/sprite_70.png",
+            "x": -130,
+            "y": -259
+        },
+        {
+            "path": "sprites/sprite_71.png",
+            "x": -226,
+            "y": -243
+        },
+        {
+            "path": "sprites/sprite_72.png",
+            "x": -290,
+            "y": -307
+        },
+        {
+            "path": "sprites/sprite_73.png",
+            "x": -130,
+            "y": -323
+        },
+        {
+            "path": "sprites/sprite_74.png",
+            "x": -98,
+            "y": -243
+        },
+        {
+            "path": "sprites/sprite_75.png",
+            "x": -258,
+            "y": -227
+        },
+        {
+            "path": "sprites/sprite_76.png",
+            "x": -98,
+            "y": -243
+        },
+        {
+            "path": "sprites/sprite_77.png",
+            "x": -258,
+            "y": -227
+        },
+        {
+            "path": "sprites/sprite_78.png",
+            "x": -290,
+            "y": -307
+        },
+        {
+            "path": "sprites/sprite_79.png",
+            "x": -130,
+            "y": -323
+        },
+        {
+            "path": "sprites/sprite_80.png",
+            "x": -130,
+            "y": -259
+        },
+        {
+            "path": "sprites/sprite_81.png",
+            "x": -226,
+            "y": -243
+        },
+        {
+            "path": "sprites/sprite_82.png",
+            "x": -258,
+            "y": -291
+        },
+        {
+            "path": "sprites/sprite_83.png",
+            "x": -162,
+            "y": -307
+        },
+        {
+            "path": "sprites/sprite_84.png",
+            "x": -7,
+            "y": -8
+        },
+        {
+            "path": "sprites/sprite_85.png",
+            "x": -31,
+            "y": -8
+        },
+        {
+            "path": "sprites/sprite_86.png",
+            "x": -31,
+            "y": -20
+        },
+        {
+            "path": "sprites/sprite_87.png",
+            "x": -16,
+            "y": -20
+        },
+        {
+            "path": "sprites/sprite_88.png",
+            "x": -31,
+            "y": -20
+        },
+        {
+            "path": "sprites/sprite_89.png",
+            "x": -8,
+            "y": -20
+        },
+        {
+            "path": "sprites/sprite_90.png",
+            "x": -16,
+            "y": -8
+        },
+        {
+            "path": "sprites/sprite_91.png",
+            "x": -31,
+            "y": -8
+        },
+        {
+            "path": "sprites/sprite_92.png",
+            "x": -226,
+            "y": -307
+        },
+        {
+            "path": "sprites/sprite_93.png",
+            "x": -130,
+            "y": -291
+        },
+        {
+            "path": "sprites/sprite_94.png",
+            "x": -162,
+            "y": -243
+        },
+        {
+            "path": "sprites/sprite_95.png",
+            "x": -258,
+            "y": -259
+        },
+        {
+            "path": "sprites/sprite_96.png",
+            "x": -258,
+            "y": -323
+        },
+        {
+            "path": "sprites/sprite_97.png",
+            "x": -98,
+            "y": -307
+        },
+        {
+            "path": "sprites/sprite_98.png",
+            "x": -130,
+            "y": -227
+        },
+        {
+            "path": "sprites/sprite_99.png",
+            "x": -290,
+            "y": -243
+        },
+        {
+            "path": "sprites/sprite_100.png",
+            "x": -66,
+            "y": -259
+        },
+        {
+            "path": "sprites/sprite_101.png",
+            "x": -32,
+            "y": -7
+        },
+        {
+            "path": "sprites/sprite_102.png",
+            "x": 0,
+            "y": -20
+        },
+        {
+            "path": "sprites/sprite_103.png",
+            "x": -162,
+            "y": -339
+        },
+        {
+            "path": "sprites/sprite_104.png",
+            "x": -98,
+            "y": -275
+        },
+        {
+            "path": "sprites/sprite_105.png",
+            "x": -32,
+            "y": -20
+        },
+        {
+            "path": "sprites/sprite_106.png",
+            "x": 0,
+            "y": -20
+        },
+        {
+            "path": "sprites/sprite_107.png",
+            "x": -194,
+            "y": -323
+        },
+        {
+            "path": "sprites/sprite_108.png",
+            "x": -7,
+            "y": -8
+        },
+        {
+            "path": "sprites/sprite_109.png",
+            "x": -31,
+            "y": -20
+        },
+        {
+            "path": "sprites/sprite_110.png",
+            "x": -31,
+            "y": -20
+        },
+        {
+            "path": "sprites/sprite_111.png",
+            "x": -8,
+            "y": -20
+        },
+        {
+            "path": "sprites/sprite_112.png",
+            "x": -31,
+            "y": -20
+        },
+        {
+            "path": "sprites/sprite_113.png",
+            "x": -32,
+            "y": -20
+        },
+        {
+            "path": "sprites/sprite_114.png",
+            "x": -7,
+            "y": -20
+        },
+        {
+            "path": "sprites/sprite_115.png",
+            "x": -31,
+            "y": -8
+        },
+        {
+            "path": "sprites/sprite_116.png",
+            "x": -194,
+            "y": -323
+        },
+        {
+            "path": "sprites/sprite_117.png",
+            "x": -32,
+            "y": -20
+        },
+        {
+            "path": "sprites/sprite_118.png",
+            "x": 0,
+            "y": -19
+        },
+        {
+            "path": "sprites/sprite_119.png",
+            "x": -290,
+            "y": -275
+        },
+        {
+            "path": "sprites/sprite_120.png",
+            "x": -226,
+            "y": -339
+        },
+        {
+            "path": "sprites/sprite_121.png",
+            "x": -7,
+            "y": -20
+        },
+        {
+            "path": "sprites/sprite_122.png",
+            "x": 25,
+            "y": -7
+        },
+        {
+            "path": "sprites/sprite_123.png",
+            "x": -322,
+            "y": -259
+        },
+        {
+            "path": "sprites/sprite_124.png",
+            "x": 9,
+            "y": -8
+        },
+        {
+            "path": "sprites/sprite_125.png",
+            "x": -15,
+            "y": 0
+        },
+        {
+            "path": "sprites/sprite_126.png",
+            "x": -31,
+            "y": -12
+        },
+        {
+            "path": "sprites/sprite_127.png",
+            "x": -7,
+            "y": -20
+        },
+        {
+            "path": "sprites/sprite_128.png",
+            "x": -16,
+            "y": -20
+        },
+        {
+            "path": "sprites/sprite_129.png",
+            "x": -15,
+            "y": -12
+        },
+        {
+            "path": "sprites/sprite_130.png",
+            "x": -31,
+            "y": -12
+        },
+        {
+            "path": "sprites/sprite_131.png",
+            "x": -31,
+            "y": -20
+        },
+        {
+            "path": "sprites/sprite_132.png",
+            "x": -55,
+            "y": -20
+        },
+        {
+            "path": "sprites/sprite_133.png",
+            "x": -79,
+            "y": -32
+        },
+        {
+            "path": "sprites/sprite_134.png",
+            "x": -31,
+            "y": -44
+        },
+        {
+            "path": "sprites/sprite_135.png",
+            "x": -31,
+            "y": -20
+        },
+        {
+            "path": "sprites/sprite_136.png",
+            "x": -79,
+            "y": -20
+        },
+        {
+            "path": "sprites/sprite_137.png",
+            "x": -55,
+            "y": -44
+        },
+        {
+            "path": "sprites/sprite_138.png",
+            "x": -31,
+            "y": -32
+        },
+        {
+            "path": "sprites/sprite_139.png",
+            "x": -31,
+            "y": -20
+        },
+        {
+            "path": "sprites/sprite_140.png",
+            "x": -16,
+            "y": -20
+        },
+        {
+            "path": "sprites/sprite_141.png",
+            "x": -15,
+            "y": -12
+        },
+        {
+            "path": "sprites/sprite_142.png",
+            "x": -32,
+            "y": -12
+        },
+        {
+            "path": "sprites/sprite_143.png",
+            "x": -31,
+            "y": -20
+        },
+        {
+            "path": "sprites/sprite_144.png",
+            "x": -16,
+            "y": -20
+        },
+        {
+            "path": "sprites/sprite_145.png",
+            "x": 9,
+            "y": -12
+        },
+        {
+            "path": "sprites/sprite_146.png",
+            "x": -7,
+            "y": 0
+        },
+        {
+            "path": "sprites/sprite_147.png",
+            "x": -31,
+            "y": -8
+        }
+    ]
+}
