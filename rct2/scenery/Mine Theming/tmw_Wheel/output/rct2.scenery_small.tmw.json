@@ -1,0 +1,41 @@
+{
+    "id": "JoshuaJacobs.scenery_small.tmw",
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
+    "version": "1.0",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 5,
+        "removalPrice": -4,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 12,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Wheels",
+            "fr-FR": "Roues",
+            "de-DE": "Räder",
+            "es-ES": "Ruedas",
+            "it-IT": "Ruote",
+            "nl-NL": "Wielen",
+            "sv-SE": "Hjul",
+            "ko-KR": "바퀴",
+            "zh-CN": "轮子",
+            "zh-TW": "車子",
+            "pt-BR": "Rodas",
+            "cs-CZ": "Kola",
+            "ja-JP": "車輪",
+            "pl-PL": "Koła",
+            "ru-RU": "Колеса",
+            "eo-ZZ": "Radoj",
+            "ca-ES": "Rodes",
+            "fi-FI": "Pyörät",
+            "gl-ES": "Rodas"
+        }
+    }
+}

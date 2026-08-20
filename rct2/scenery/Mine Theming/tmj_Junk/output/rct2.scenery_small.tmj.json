@@ -1,0 +1,40 @@
+{
+    "id": "JoshuaJacobs.scenery_small.tmj",
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
+    "version": "1.0",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 6,
+        "removalPrice": -4,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 32,
+        "shape": "4/4",
+        "isRotatable": true,
+        "isStackable": true
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Junk",
+            "fr-FR": "Déchets",
+            "de-DE": "Gerümpel",
+            "es-ES": "Chatarra",
+            "it-IT": "Giunca",
+            "nl-NL": "Rommel",
+            "sv-SE": "Skräp",
+            "ko-KR": "잔해",
+            "zh-CN": "废弃物",
+            "zh-TW": "廢棄物",
+            "pt-BR": "Lixo",
+            "cs-CZ": "Odpad",
+            "ja-JP": "ジャンク",
+            "pl-PL": "Śmieci",
+            "ru-RU": "Мусор",
+            "eo-ZZ": "Rubaĵo",
+            "ca-ES": "Trastos",
+            "fi-FI": "Rojukasa"
+        }
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "id": "JoshuaJacobs.scenery_small.roof13",
+    "authors": [
+        "Chris Sawyer",
+        "Simon Foster"
+    ],
+    "version": "1.0",
+    "objectType": "scenery_small",
+    "properties": {
+        "price": 20,
+        "removalPrice": -15,
+        "cursor": "CURSOR_HOUSE_DOWN",
+        "height": 8,
+        "sceneryGroup": "JoshuaJacobs.scenery_group.scgwalls",
+        "shape": "4/4",
+        "SMALL_SCENERY_FLAG_VOFFSET_CENTRE": true,
+        "requiresFlatSurface": true,
+        "isRotatable": true,
+        "isStackable": true,
+        "prohibitWalls": true,
+        "hasNoSupports": true
+    },
+    "strings": {
+        "name": {
+            "en-GB": "Roof",
+            "fr-FR": "Toit",
+            "de-DE": "Dach",
+            "es-ES": "Tejado",
+            "it-IT": "Tetto",
+            "nl-NL": "Dak",
+            "sv-SE": "Tak",
+            "ko-KR": "천장",
+            "zh-CN": "屋顶",
+            "zh-TW": "屋頂",
+            "pt-BR": "Teto",
+            "cs-CZ": "Střecha",
+            "ja-JP": "屋根",
+            "pl-PL": "Dach",
+            "ru-RU": "Крыша",
+            "eo-ZZ": "Tegmento",
+            "ca-ES": "Teulada",
+            "fi-FI": "Katto",
+            "hu-HU": "Tető",
+            "uk-UA": "Дах",
+            "gl-ES": "Tellado"
+        }
+    }
+}
